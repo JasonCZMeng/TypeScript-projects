@@ -1,2 +1,2 @@
 # TypeScript-projects
-building real applications using TS
+building real applications with TS
